@@ -1,4 +1,4 @@
-# FFNotePad
+# FFNote
 
 ## 概要
 
