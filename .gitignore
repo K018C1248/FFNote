@@ -10,6 +10,7 @@
 .svn/
 .firebase
 .dart_tool
+.gitignore
 
 # IntelliJ related
 *.iml
